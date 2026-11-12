@@ -1,0 +1,24 @@
+# Site settings. GitHub Pages reads this file and builds the blog for you.
+title: "Nokubonga's Tech Notes"
+description: "Field notes from IT support: networks, labs, hardware and certifications."
+author: "Nokubonga Nkuna"
+
+# If the repository is called tech-blog, keep this as "/tech-blog".
+# If you rename the repo to YOUR-USERNAME.github.io, change it to "".
+baseurl: "/tech-blog"
+url: "https://YOUR-GITHUB-USERNAME.github.io"
+
+github_username: YOUR-GITHUB-USERNAME
+linkedin_url: "https://www.linkedin.com/in/YOUR-LINKEDIN"
+portfolio_url: "https://YOUR-GITHUB-USERNAME.github.io/portfolio-website/"
+
+markdown: kramdown
+permalink: /:year/:month/:title/
+timezone: Africa/Johannesburg
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
