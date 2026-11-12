@@ -6,11 +6,11 @@ author: "Nokubonga Nkuna"
 # If the repository is called tech-blog, keep this as "/tech-blog".
 # If you rename the repo to YOUR-USERNAME.github.io, change it to "".
 baseurl: "/tech-blog"
-url: "https://YOUR-GITHUB-USERNAME.github.io"
+url: "https://bongokuhle-nokubonga.github.io"
 
-github_username: YOUR-GITHUB-USERNAME
+github_username: Bongokuhle-Nokubonga
 linkedin_url: "https://www.linkedin.com/in/YOUR-LINKEDIN"
-portfolio_url: "https://YOUR-GITHUB-USERNAME.github.io/portfolio-website/"
+portfolio_url: "https://bongokuhle-nokubonga.github.io/portfolio-website/"
 
 markdown: kramdown
 permalink: /:year/:month/:title/

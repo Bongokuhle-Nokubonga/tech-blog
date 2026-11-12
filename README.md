@@ -3,7 +3,7 @@
 My blog about IT support and networking, built with **Jekyll** and hosted free on
 **GitHub Pages**. GitHub builds the site automatically: you just write Markdown.
 
-**Live blog:** `https://YOUR-GITHUB-USERNAME.github.io/tech-blog/`
+**Live blog:** https://bongokuhle-nokubonga.github.io/tech-blog/
 
 ## Write a new post
 
@@ -26,7 +26,7 @@ You can do all of this in the browser on GitHub: open `_posts`, then **Add file 
 ## Deploy to GitHub Pages
 
 1. Push this folder to a GitHub repository called `tech-blog`
-2. In `_config.yml`, replace `YOUR-GITHUB-USERNAME` and `YOUR-LINKEDIN` with your details
+2. In `_config.yml`, set `linkedin_url` to your LinkedIn profile
 3. On GitHub, open **Settings → Pages**, choose **Deploy from a branch**, branch `main`, folder `/ (root)`, then click **Save**
 
 ## Structure
